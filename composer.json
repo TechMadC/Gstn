@@ -1,5 +1,5 @@
 {
-  "name": "agenic/gstn",
+  "name": "techmadc/gstn",
   "version": "2.0.0",
   "description": "Custom GST Configuration based on Product Price",
   "type": "magento2-module",
