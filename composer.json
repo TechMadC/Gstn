@@ -1,7 +1,7 @@
 {
   "name": "techmadc/gstn",
    "description": "Custom GST Configuration based on Product Price",
-  "version": "2.0.0",
+  "version": "1.0.2",
   "type": "magento2-module",
   "require": {
     "magento/framework": "*"
